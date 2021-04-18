@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "github-searcher-890d3": {
+      "hosting": {
+        "github-login-firebase": [
+          "github-searcher-890d3"
+        ]
+      }
+    }
+  }
+}
